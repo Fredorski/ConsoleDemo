@@ -10,6 +10,8 @@ namespace ConsoleApplication19
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Coolness");
+
         }
     }
 }
